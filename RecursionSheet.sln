@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C.PrintFromNto1", "C.PrintF
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D.PrintDigitsUsingRecursion", "D.PrintDigitsUsingRecursion\D.PrintDigitsUsingRecursion.vcxproj", "{A16CB16A-D086-40B7-933A-BBA7ABF8820B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "E.BaseConverssion", "E.BaseConverssion\E.BaseConverssion.vcxproj", "{2D5DE44A-E95F-434F-A339-3F18DDE47F7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{A16CB16A-D086-40B7-933A-BBA7ABF8820B}.Release|x64.Build.0 = Release|x64
 		{A16CB16A-D086-40B7-933A-BBA7ABF8820B}.Release|x86.ActiveCfg = Release|Win32
 		{A16CB16A-D086-40B7-933A-BBA7ABF8820B}.Release|x86.Build.0 = Release|Win32
+		{2D5DE44A-E95F-434F-A339-3F18DDE47F7A}.Debug|x64.ActiveCfg = Debug|x64
+		{2D5DE44A-E95F-434F-A339-3F18DDE47F7A}.Debug|x64.Build.0 = Debug|x64
+		{2D5DE44A-E95F-434F-A339-3F18DDE47F7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D5DE44A-E95F-434F-A339-3F18DDE47F7A}.Debug|x86.Build.0 = Debug|Win32
+		{2D5DE44A-E95F-434F-A339-3F18DDE47F7A}.Release|x64.ActiveCfg = Release|x64
+		{2D5DE44A-E95F-434F-A339-3F18DDE47F7A}.Release|x64.Build.0 = Release|x64
+		{2D5DE44A-E95F-434F-A339-3F18DDE47F7A}.Release|x86.ActiveCfg = Release|Win32
+		{2D5DE44A-E95F-434F-A339-3F18DDE47F7A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
