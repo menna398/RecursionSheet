@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "J.Factorial", "J.Factorial\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "K.MaxNumber", "K.MaxNumber\K.MaxNumber.vcxproj", "{147954D5-E53D-49A4-96E8-9F5B321172BE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "I.CountVowels", "I.CountVowels\I.CountVowels.vcxproj", "{3D517383-AD89-492C-A4D7-BCB7C7AE1247}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{147954D5-E53D-49A4-96E8-9F5B321172BE}.Release|x64.Build.0 = Release|x64
 		{147954D5-E53D-49A4-96E8-9F5B321172BE}.Release|x86.ActiveCfg = Release|Win32
 		{147954D5-E53D-49A4-96E8-9F5B321172BE}.Release|x86.Build.0 = Release|Win32
+		{3D517383-AD89-492C-A4D7-BCB7C7AE1247}.Debug|x64.ActiveCfg = Debug|x64
+		{3D517383-AD89-492C-A4D7-BCB7C7AE1247}.Debug|x64.Build.0 = Debug|x64
+		{3D517383-AD89-492C-A4D7-BCB7C7AE1247}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D517383-AD89-492C-A4D7-BCB7C7AE1247}.Debug|x86.Build.0 = Debug|Win32
+		{3D517383-AD89-492C-A4D7-BCB7C7AE1247}.Release|x64.ActiveCfg = Release|x64
+		{3D517383-AD89-492C-A4D7-BCB7C7AE1247}.Release|x64.Build.0 = Release|x64
+		{3D517383-AD89-492C-A4D7-BCB7C7AE1247}.Release|x86.ActiveCfg = Release|Win32
+		{3D517383-AD89-492C-A4D7-BCB7C7AE1247}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
